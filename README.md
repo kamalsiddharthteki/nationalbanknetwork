@@ -1,0 +1,2 @@
+# nationalbanknetwork
+In this project we will primarily focus on design and implementation of National Bank National Network suing Cisco Packet Tracer (CPT). Security breach in the sector of banks is one of the most important concerns that needs to be addressed in the first place since loss of information can lead to huge losses to the bank overall. This project will help us curb such concerns by understanding the regulated flow of information/data.
